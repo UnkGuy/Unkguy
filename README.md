@@ -1,6 +1,6 @@
 ### Hi, I'm Hans Schubert S. Baron 👋
 
-I'm a graduating **BS Computer Science (Data Science Specialization)** student at the **University of Santo Tomas** focused on full-stack web engineering, machine learning pipelines, and data warehousing. I enjoy taking unstructured problems—from optical drum notation to urban air quality and geospatial business analytics—and shipping end-to-end software systems.
+I'm a graduating **BS Computer Science (Data Science Specialization)** student at the **University of Santo Tomas** focused on full-stack web engineering, machine learning pipelines, and data warehousing. 
 
 ---
 
