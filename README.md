@@ -4,7 +4,7 @@ I'm a graduating **BS Computer Science (Data Science Specialization)** student a
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -45,7 +45,7 @@ I'm a graduating **BS Computer Science (Data Science Specialization)** student a
 
 ---
 
-### 🚀 Featured Engineering Projects
+### Featured Engineering Projects
 
 * 🥁 **[Drum Sheet Sync](https://github.com/UnkGuy/drum-sheet-sync)** — Full-stack AI sight-reading web app combining a fine-tuned **YOLOv8 / ONNX** measure detection pipeline (`1024x1024` rasters), 1D reading-order row clustering in **FastAPI**, and a 60fps **Next.js + Web Audio API** player.
 * 🗺️ **[SiteSuri](https://github.com/averageCoder-bit/sitesuri)** — Geospatial decision-support platform for Filipino MSMEs built with **Next.js, MapLibre GL, FastAPI, and Supabase**, powered by an **XGBoost Poisson** pedestrian-activity model and multi-factor suitability scoring.
