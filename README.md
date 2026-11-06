@@ -3,7 +3,7 @@
 I'm a graduating **BS Computer Science (Data Science Specialization)** student at the **University of Santo Tomas** focused on full-stack web engineering, machine learning pipelines, and data warehousing. 
 
 ---
-### Featured Engineering Projects
+### Featured Projects
 
 * 🥁 **[Drum Sheet Sync](https://github.com/UnkGuy/drum-sheet-sync)** — Full-stack AI sight-reading web app combining a fine-tuned **YOLOv8 / ONNX** measure detection pipeline (`1024x1024` rasters), 1D reading-order row clustering in **FastAPI**, and a 60fps **Next.js + Web Audio API** player.
 * 🗺️ **[SiteSuri](https://github.com/averageCoder-bit/sitesuri)** — Geospatial decision-support platform for Filipino MSMEs built with **Next.js, MapLibre GL, FastAPI, and Supabase**, powered by an **XGBoost Poisson** pedestrian-activity model and multi-factor suitability scoring.
